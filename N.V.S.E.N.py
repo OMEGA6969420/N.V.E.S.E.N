@@ -285,4 +285,4 @@ async def cuest(ctx):
     except:
         await ctx.send(f"")
 
-bot.run("MTMxMjQ4NzIwNTA3NTI4ODI4NA.GNO834.wdFKGbYwixwrLGKUQoQy2yFbLFxCZOPHZp-8cI")
+bot.run("TOKEN")
