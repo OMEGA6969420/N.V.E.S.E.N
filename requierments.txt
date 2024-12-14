@@ -1,0 +1,6 @@
+Librerias:
+    Flask
+    Pip
+    Pipenv
+    Discord
+    
